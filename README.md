@@ -13,5 +13,6 @@ Skills: Python / Basics (HTML / CSS)/ HTTP Basics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandar Marinov)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandar Marinov&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandar Marinov&show_icons=true) 
+https://github-readme-stats.vercel.app/api?username=Aleksandar
 
