@@ -4,7 +4,7 @@
 ![Junior Programmer](https://user-images.githubusercontent.com/106611595/188648305-a86de923-0cc3-4b5a-ae18-31820f573e28.png)
 
 
-I am a person who is not afraid of challenges, can work under pressure and analyze well. Prefer to try and do things my self in order to understand them, but if needed won’t hesitate to ask colleagues for help. Like working in group and helping out. Could say that I am with a robust personality, a good listener who likes to further research the things that I am working on to understand them better.
+I am a person who is not afraid of challenges, can work under pressure and analyze well. Prefer to try and do things my self in order to understand them, but if needed won’t hesitate to ask colleagues for help. Like working in group and helping out. Could say that I am with a robust personality, a good listener who likes to further research the things that I am working on in order to understand them better.
 
 Skills: Python / Basics (HTML / CSS)/ HTTP Basics
 
